@@ -7,9 +7,9 @@ import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 
-import com.cangelescuwine.dto.ClientB2CDTO;
-import com.cangelescuwine.dto.ClientOrderDTO;
-import com.cangelescuwine.dto.OrderItemDTO;
+import com.cangelescu.wine.dto.ClientB2CDTO;
+import com.cangelescu.wine.dto.ClientOrderDTO;
+import com.cangelescu.wine.dto.OrderItemDTO;
 import com.example.finalprojectejb.model.ClientB2C;
 import com.example.finalprojectejb.model.ClientOrder;
 import com.example.finalprojectejb.model.OrderItem;

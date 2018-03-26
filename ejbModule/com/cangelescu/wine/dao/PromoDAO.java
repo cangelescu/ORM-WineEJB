@@ -4,8 +4,8 @@ import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 
-import com.cangelescuwine.dto.PromoDTO;
-import com.cangelescuwine.dto.StockSupplierDTO;
+import com.cangelescu.wine.dto.PromoDTO;
+import com.cangelescu.wine.dto.StockSupplierDTO;
 import com.example.finalprojectejb.model.Promo;
 import com.example.finalprojectejb.model.StockSupplier;
 

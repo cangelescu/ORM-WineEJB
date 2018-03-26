@@ -4,7 +4,7 @@ import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 
-import com.cangelescuwine.dto.UserDTO;
+import com.cangelescu.wine.dto.UserDTO;
 import com.example.finalprojectejb.model.PlatformUser;
 
 /**

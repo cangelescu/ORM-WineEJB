@@ -7,11 +7,11 @@ import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 
-import com.cangelescuwine.dto.PromoDTO;
-import com.cangelescuwine.dto.StockClientB2BDTO;
-import com.cangelescuwine.dto.StockSupplierDTO;
-import com.cangelescuwine.dto.SupplierDTO;
-import com.cangelescuwine.dto.WineDTO;
+import com.cangelescu.wine.dto.PromoDTO;
+import com.cangelescu.wine.dto.StockClientB2BDTO;
+import com.cangelescu.wine.dto.StockSupplierDTO;
+import com.cangelescu.wine.dto.SupplierDTO;
+import com.cangelescu.wine.dto.WineDTO;
 import com.example.finalprojectejb.model.Promo;
 import com.example.finalprojectejb.model.StockClientB2B;
 import com.example.finalprojectejb.model.StockSupplier;

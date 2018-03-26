@@ -2,7 +2,7 @@ package com.cangelescu.wine.dao;
 
 import javax.ejb.Stateless;
 
-import com.cangelescuwine.dto.WineDTO;
+import com.cangelescu.wine.dto.WineDTO;
 
 /**
  * Session Bean implementation class WineDAO
