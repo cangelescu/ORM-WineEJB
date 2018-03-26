@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="WineEJB">
+        <wb-resource deploy-path="/" source-path="/ejbModule" tag="defaultRootSource"/>
+        <property name="java-output-path" value="/WineEJB/build/classes"/>
+        <property name="ClientProject" value="WineEJBClient"/>
+        <property name="ClientJARURI" value="WineEJBClient.jar"/>
+    </wb-module>
+</project-modules>

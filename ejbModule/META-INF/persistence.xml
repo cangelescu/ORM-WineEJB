@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+	<persistence-unit name="WineEJB">
+		<jta-data-source>jdbc/wineResource</jta-data-source>
+		
+		<class>com.cangelescu.wine.model.AutoRestock</class>
+		<class>com.cangelescu.wine.model.ClientB2B</class>
+		<class>com.cangelescu.wine.model.ClientB2C</class>
+		<class>com.cangelescu.wine.model.Order</class>
+		<class>com.cangelescu.wine.model.OrderStock</class>
+		<class>com.cangelescu.wine.model.Promo</class>
+		<class>com.cangelescu.wine.model.StockClientB2B</class>
+		<class>com.cangelescu.wine.model.StockSupplier</class>
+		<class>com.cangelescu.wine.model.Supplier</class>
+		<class>com.cangelescu.wine.model.User</class>
+		<class>com.cangelescu.wine.model.Wine</class>
+		
+	</persistence-unit>
+</persistence>
